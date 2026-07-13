@@ -1,0 +1,1 @@
+Create a Learning Track section in HTML and CSS. Add a heading, one short paragraph and three cards. Use CSS Grid to show the cards. Make the section responsive and similar to the Figma design.
